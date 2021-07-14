@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+header{
+	font-family: 'Poppins', sans-serif;
+	letter-spacing: 1.2px;
+	color: #444;
+}
+.accordion {
+	background-color: transparent;
+	color: #444;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	border: none;
+	text-align: left;
+	outline: none;
+	font-size: 1.4rem;
+	transition: 0.4s;
+	vertical-align: center;
+	border-bottom: 1px solid black;
+  }
+  
+  .active, .accordion:hover {
+	background-color: #ccc;
+  }
+  
+  .accordion:after {
+	content: '\002B';
+	color: #777;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+  }
+  
+  .active:after {
+	content: "\2212";
+  }
+  
+  .panel {
+	padding: 0 18px;
+	background-color: white;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+  }

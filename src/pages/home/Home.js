@@ -5,9 +5,9 @@ const Home = () =>{
 	return(
 		<div className="container-fluid row mx-0 p-0 main-section" style={{width:"100%"}}>
 			<div className="col-1 d-flex flex-column align-items-center justify-content-center">	
-				<i class="fab fa-twitter fa-lg mb-4"></i>
-				<i class="fab fa-github fa-lg mb-4"></i>
-				<i class="fab fa-linkedin-in fa-lg"></i>
+				<i className="fab fa-twitter fa-lg mb-4"></i>
+				<i className="fab fa-github fa-lg mb-4"></i>
+				<i className="fab fa-linkedin-in fa-lg"></i>
 			</div>
 			<div className='col-lg-5 col-11'>	
 				<header>

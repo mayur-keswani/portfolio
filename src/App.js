@@ -3,6 +3,7 @@ import Navigation from './components/header/Navigation';
 import Home from './pages/home/Home';
 import Footer from './components/footer/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import Skills from './components/skills/Skills';
 
 const App =()=>{
 
@@ -10,6 +11,7 @@ const App =()=>{
       <>
         <Navigation/>
         <Home/>
+        <Skills/>
         <Footer/>
       </>
   );

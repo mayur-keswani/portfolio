@@ -4,7 +4,7 @@ import './Logo.css'
 const Logo = () =>{
 	return (
 	<grid>
-		<h1 class='heading heading--stroke heading--shadow'>MK</h1>
+		<h1 className='heading heading--stroke heading--shadow'>MK</h1>
 	</grid>	
   )
 }
