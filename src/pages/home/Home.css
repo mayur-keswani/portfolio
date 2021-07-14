@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.main-section{
+	margin-top: 6rem;
+}
+.introduction{
+	font-family: 'Poppins', sans-serif;
+	font-size: 2.5rem;
+}
+.btn-resume{
+	margin-right: 1rem;
+}
+@media(max-width:599px){
+	.main-section{
+		margin-top: 1rem !important;
+	}
+}
