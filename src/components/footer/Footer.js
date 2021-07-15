@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../ui/logo/Logo'
+
 const Footer = () =>{
 	return(
 		<div className="footer-section bg-dark row" style={{height:"15vh"}}>	
@@ -9,9 +9,9 @@ const Footer = () =>{
 			</div>
 			<div className="col-12 col-lg-8  d-flex align-items-center justify-content-center  text-muted">
 			Connect With Me :
-				<a href="https://twitter.com/Mayur_keswani_" className="fab fa-twitter fa-2x mx-3" ></a>
-				<a href="https://github.com/mayur-keswani" className="fab fa-github fa-2x mx-3"></a>
-				<a className="fab fa-linkedin-in fa-2x mx-3"></a>	
+				<a href="https://twitter.com/Mayur_keswani_" className="fab fa-twitter fa-2x mx-3" >_</a>
+				<a href="https://github.com/mayur-keswani" className="fab fa-github fa-2x mx-3">_</a>
+				<a className="fab fa-linkedin-in fa-2x mx-3" href="https://twitter.com/Mayur_keswani_">_</a>	
 			</div>
 		</div>
 	)

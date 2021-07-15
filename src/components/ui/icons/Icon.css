@@ -1,0 +1,12 @@
+.large{
+	width: 4.5rem !important;
+	height: 4rem !important;
+	
+
+}
+@media(max-width:599px){
+	.iconify{
+		width: 5rem  !important;
+		border-width: 0px;
+	}	
+}

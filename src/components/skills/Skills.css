@@ -42,3 +42,5 @@ header{
 	overflow: hidden;
 	transition: max-height 0.2s ease-out;
   }
+
+  .iconify { width: 30px; height: 30px; }
