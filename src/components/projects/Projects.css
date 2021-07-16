@@ -1,0 +1,15 @@
+
+.stack{
+	background-color: transparent;
+	/* border:2px solid aqua; */
+	border-radius:10px;
+  	box-shadow: -7px -7px 10px 0px rgba(255, 255, 255, 0.6),
+              -4px -3px 5px 0px #fff9,
+              7px 7px 8px 0px #0002,
+              3px 3px 3px 0px rgba(0, 0, 0, 0.067),
+              inset 0px 0px 0px 2px #fff9,
+              inset 0px 0px 0px 2px #0001,
+              inset 0px 0px 0px 2px #fff9,
+              inset 0px 0px 0px 2px #0001;
+	
+} 

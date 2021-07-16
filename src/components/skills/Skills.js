@@ -36,7 +36,7 @@ const Skills = () => {
 			Skills
 			<div className="sub-header h6 text-muted">My technical level</div>
 		</header>
-		<div className="mx-auto my-4 row"  style={{width:"100%"}} >
+		<div className="mx-auto my-5 row"  style={{width:"100%"}} >
 		{
 			skills.map(skill=>{
 				return <div key={skill.title} className="col-12 col-lg-6 mt-3">
@@ -52,7 +52,7 @@ const Skills = () => {
 			})	
 		}
 	
-	</div>
+		</div>
 	</>
 	)
 }

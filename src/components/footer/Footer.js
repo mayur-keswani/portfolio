@@ -1,4 +1,5 @@
 import React from 'react'
+import Icon from '../ui/icons/Icon'
 
 const Footer = () =>{
 	return(
@@ -8,10 +9,11 @@ const Footer = () =>{
 				
 			</div>
 			<div className="col-12 col-lg-8  d-flex align-items-center justify-content-center  text-muted">
-			Connect With Me :
-				<a href="https://twitter.com/Mayur_keswani_" className="fab fa-twitter fa-2x mx-3" >_</a>
-				<a href="https://github.com/mayur-keswani" className="fab fa-github fa-2x mx-3">_</a>
-				<a className="fab fa-linkedin-in fa-2x mx-3" href="https://twitter.com/Mayur_keswani_">_</a>	
+			
+				<a href="https://twitter.com/Mayur_keswani_" className="mx-2" ><Icon name="twitter"/></a>
+				<a href="https://github.com/mayur-keswani" className="mx-2"><Icon name="github"/></a>
+				<a className="mx-2" href="https://twitter.com/Mayur_keswani_"><Icon name="linkedin"/></a>
+				<a className="mx-2" href="https://mayurkeswani.hashnode.dev/"><Icon name="hashnode"/></a>	
 			</div>
 		</div>
 	)

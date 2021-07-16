@@ -75,7 +75,24 @@ const Icon=(props)=>{
 			
 			case "vs-code":
 				return <span className={iconClassName.join(' ')} data-icon="vscode-icons:file-type-vscode" data-inline="false"></span>
+
+			case "preview":
+				return <span className="iconify" data-icon="dashicons:welcome-view-site" data-inline="false"></span>
 				
+			case "github":
+				return <span className="iconify" data-icon="akar-icons:github-fill" data-inline="false"></span>
+			
+			case "gif":
+				return <span className="iconify" data-icon="bx:bxs-file-gif" data-inline="false"></span>
+			
+			case "twitter":
+				return <span className="iconify" data-icon="logos:twitter" data-inline="false"></span>
+			
+			case "linkedin":
+				return <span className="iconify" data-icon="logos:linkedin-icon" data-inline="false"></span>
+
+			case "hashnode":
+				return <span className="iconify" data-icon="logos:hashnode-icon" data-inline="false"></span>
 			default:
 				return <span className={iconClassName.join(' ')}></span>
 			

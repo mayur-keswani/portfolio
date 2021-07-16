@@ -1,0 +1,29 @@
+[	{
+		"logo":"https://res.cloudinary.com/dra5wny0w/image/upload/v1626422216/Muggle_Market_iir5gh.jpg",
+		"title":"MuggleMarket",
+		"description":"App to get the best free stock,beautiful photos , ✓ High-quality ✓ 100% free ✓ No attribution needed, for your project and store it into collection for later use.You can also store your personal photos securely on our cloud bucket.",
+		"gif":"",
+		"github":"https://github.com/mayur-keswani/MuggleMarket",
+		"demo":"https://mugglemarket.vercel.app/",
+		"stack":["Mongoose","Reactjs","RestAPI","Cloudinary","Twilia API","React Semantic UI"]
+	},
+	{
+		"logo":"https://res.cloudinary.com/dra5wny0w/image/upload/v1626413344/9bJoeaPbGTB8Tz_h4N-p-6ReRd8vSS-frZb2tmJulaGIoTKElKj3zpmcFJvnS96ANZP5_ichjb2.png",
+		"title":"Keep Clone",
+		"description":"Keep Clone is clone of Google Keep Free Note-taking service. Allows user to quickly capture(note) what's on their mind for personal use. User can also make Todo Checklist",
+		"gif":"https://drive.google.com/file/d/1HsPNmX4YlQh3X1EvcLwRdh4MMo-zqLhL/view?usp=sharing",
+		"github":"https://github.com/mayur-keswani/Google-Keep-Clone",
+		"demo":"https://mayur-keep-clone.netlify.app/",
+		"stack":["Reactjs","Context API","Reducer"]
+	},
+	{	
+		"logo":"https://res.cloudinary.com/dra5wny0w/image/upload/v1626412539/muggle_pexels_rjnayv.jpg",
+		"title":"MugglePexels",
+		"description":"App to get the best free stock,beautiful photos , ✓ High-quality ✓ 100% free ✓ No attribution needed, for your project and store it into collection for later use.You can also store your personal photos securely on our cloud bucket.",
+		"gif":"",
+		"github":"https://github.com/mayur-keswani/MugglePexels",
+		"demo":"https://mugglepexels.netlify.app/",
+		"stack":["Reactjs","firebase Auth","Firebase Realtime-DB","Firebase Storage-Bucket","Unsplash API"]
+	}
+	
+]
