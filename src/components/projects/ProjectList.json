@@ -14,7 +14,7 @@
 		"gif":"https://drive.google.com/file/d/1HsPNmX4YlQh3X1EvcLwRdh4MMo-zqLhL/view?usp=sharing",
 		"github":"https://github.com/mayur-keswani/Google-Keep-Clone",
 		"demo":"https://mayur-keep-clone.netlify.app/",
-		"stack":["Reactjs","Context API","Reducer"]
+		"stack":["Reactjs","Typescript","Context API","Reducer"]
 	},
 	{	
 		"logo":"https://res.cloudinary.com/dra5wny0w/image/upload/v1626412539/muggle_pexels_rjnayv.jpg",
@@ -24,6 +24,14 @@
 		"github":"https://github.com/mayur-keswani/MugglePexels",
 		"demo":"https://mugglepexels.netlify.app/",
 		"stack":["Reactjs","firebase Auth","Firebase Realtime-DB","Firebase Storage-Bucket","Unsplash API"]
+	},{
+		"logo":"https://res.cloudinary.com/dra5wny0w/image/upload/v1627848892/muggleacademy_rzxcos.jpg",
+		"title":"Muggle Academy",
+		"description":"A deshboard for school/ college/ corporate business institution to launch their video-courses and provide discussion panel for posting questions. Autherities can also post their photos, issue notice/articles for upcoming events, code snippets and funny stuff.",
+		"gif":"",
+		"github":"https://github.com/mayur-keswani/Muggle-Academy",
+		"demo":"https://muggle-academy.herokuapp.com/",
+		"stack":["Nodejs (express.js)","Mongoose","EJS Templating Engine","Cloudinary"]
 	}
 	
 ]

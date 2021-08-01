@@ -4,7 +4,7 @@ import data from './ProjectList.json'
 import './Projects.css'
 
 const Projects = () =>{
-	console.log(data)
+	
 	return(
 		<>
 			<header className='text-center h1' style={{marginTop:"8rem"}}>

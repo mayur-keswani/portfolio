@@ -6,7 +6,7 @@ const Skills = () => {
 	const accordion = useRef()
 	const [skills,setSkills] = useState([
 		{show:false,title:"LANGUAGES",languages:["Javascript","Typescript","Cpp","Java"],icon:"fas fa-folder"},
-		{show:false,title:"FRONT-END",languages:["Reactjs","Redux","Nextjs","HTML5","CSS3","Bootstrap","Styled-Components"],icon:"fas fa-code fa-2x"},
+		{show:false,title:"FRONT-END",languages:["Reactjs","Redux","HTML5","CSS3","Bootstrap","Styled-Components"],icon:"fas fa-code fa-2x"},
 		{show:false,title:"BACK-END",languages:["Nodejs","Expressjs","MongoDB","Mongoose","Sequelize","Socket.io"],icon:"fas fa-server fa-2x"},
 		{show:false,title:"OTHERS",languages:["Git","Postman","Heroku","npm","vs-code"],icon:"fas fa-code-branch fa-2x"}
 	])

@@ -4,7 +4,7 @@ import './Icon.css'
 const Icon=(props)=>{
 		let iconClassName=["iconify"];
 		iconClassName.push(props.size)
-		console.log(iconClassName.join(' '))
+		
 		switch(props.name){
 			case 'Javascript':
 				return <span 
