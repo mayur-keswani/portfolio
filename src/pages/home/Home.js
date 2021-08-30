@@ -19,11 +19,11 @@ const Home = () =>{
 					and other web technologies</h6>
 				</header>
 				<div className="resume-section  d-flex mt-3">
-					<button className="btn-resume btn btn-info  mr-3 text-white px-5">Resume</button>
+					{/* <button className="btn-resume btn btn-info  mr-3 text-white px-5" disabled>Resume</button> */}
 
 					<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mayurkeswani2001@gmail.com" 
 						target="_blank"
-						className="btn btn-outline-info text-dark ml-3 px-4">Email Me</a>
+						className="btn btn-outline-info btn-lg text-dark ml-3 px-4">Email Me</a>
 				</div>
 
 			</div>
