@@ -11,8 +11,8 @@ const Home = () =>{
 			</div>
 			<div className='col-lg-5 col-11'>	
 				<header>
-					<div className="introduction h2 pt-5">Hi, I'am Mayur</div>
-					<h4 className="text-secondary">Full Stack Developer</h4>
+					<div className="introduction pt-5">Hi, I'am Mayur</div>
+					<div className="sub-header text-secondary">Full Stack Developer</div>
 					<h6 className="text-secondary mt-3" style={{lineHeight: "1.4"}}>
 					I am a Software engineer from India,<br/>
 					currently specialising in development of SPAs with Reactjs, <br/> REST APIs in Nodejs,
