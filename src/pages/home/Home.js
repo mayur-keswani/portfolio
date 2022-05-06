@@ -7,7 +7,7 @@ const Home = () =>{
 			<div className="col-1 d-flex flex-column align-items-center justify-content-center">	
 				<a href="https://twitter.com/Mayur_keswani_"><i className="fab fa-twitter fa-lg mb-4"></i></a>
 				<a href="https://github.com/mayur-keswani"><i className="fab fa-github fa-lg mb-4"></i></a>
-				<a href="/"><i className="fab fa-linkedin-in fa-lg"></i></a>
+				<a href="https://www.linkedin.com/in/mayur-keswani-08a16921b"><i className="fab fa-linkedin-in fa-lg"></i></a>
 			</div>
 			<div className='col-lg-5 col-11'>	
 				<header>
